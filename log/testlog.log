@@ -1,0 +1,24 @@
+2022-02-11 12:20:00,770 - Base.baseDriver -INFO - URL is open
+2022-02-11 12:20:00,831 - Base.baseDriver -INFO - Username is given
+2022-02-11 12:20:00,871 - Base.baseDriver -INFO - Password is given
+2022-02-11 12:20:02,591 - Base.baseDriver -INFO - Login Button is clicked
+2022-02-11 12:20:03,586 - Base.baseDriver -INFO - Logout button is cliecked
+2022-02-11 12:20:03,586 - Base.baseDriver -INFO - assert is passed
+2022-02-11 12:24:52,070 - Base.baseDriver -INFO - URL is open
+2022-02-11 12:24:52,131 - Base.baseDriver -INFO - Username is given
+2022-02-11 12:24:52,166 - Base.baseDriver -INFO - Password is given
+2022-02-11 12:24:53,907 - Base.baseDriver -INFO - Login Button is clicked
+2022-02-11 12:24:54,877 - Base.baseDriver -INFO - Logout button is cliecked
+2022-02-11 12:24:54,878 - Base.baseDriver -INFO - assert is passed
+2022-02-11 12:52:14,129 - Base.baseDriver -INFO - URL is open
+2022-02-11 12:52:14,193 - Base.baseDriver -INFO - Username is given
+2022-02-11 12:52:14,237 - Base.baseDriver -INFO - Password is given
+2022-02-11 12:52:15,979 - Base.baseDriver -INFO - Login Button is clicked
+2022-02-11 12:52:16,953 - Base.baseDriver -INFO - Logout button is cliecked
+2022-02-11 12:52:16,954 - Base.baseDriver -INFO - assert is passed
+2022-02-15 23:12:23,433 - Base.baseDriver -INFO - URL is open
+2022-02-15 23:12:23,499 - Base.baseDriver -INFO - Username is given
+2022-02-15 23:12:23,538 - Base.baseDriver -INFO - Password is given
+2022-02-15 23:12:25,215 - Base.baseDriver -INFO - Login Button is clicked
+2022-02-15 23:12:26,278 - Base.baseDriver -INFO - Logout button is cliecked
+2022-02-15 23:12:26,278 - Base.baseDriver -INFO - assert is passed
