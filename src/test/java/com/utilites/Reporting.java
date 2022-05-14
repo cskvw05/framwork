@@ -14,6 +14,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+import com.aventstack.extentreports.reporter.ExtentXReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 
@@ -33,7 +34,7 @@ public class Reporting extends TestListenerAdapter{
 	{
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
 		String repName="Test-Report-"+timeStamp+".html";
-		htmlReporter=new ExtentSparkReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
+		htmlReporter=new ExtentXReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
 		try {
 			htmlReporter.loadXMLConfig(System.getProperty("user.dir")+ "/extent-config.xml");
 		} catch (IOException e) {
